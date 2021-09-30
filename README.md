@@ -20,7 +20,7 @@ Thanks for checking my solution 😎
 - Media-queries
 - BEM
 
-### What i learned
+### What i learned 📘
 
 - For the first time I used rem instead of px
 
