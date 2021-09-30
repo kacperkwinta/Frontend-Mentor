@@ -6,4 +6,4 @@
 
 ## 3 Column Preview Card Component
 
-![screenshot](./screens/3-column-preview-card-component.png)
+![screenshot](./screens/3-column-preview-card-component.jpg)
