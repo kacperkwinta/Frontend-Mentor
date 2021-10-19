@@ -1,6 +1,6 @@
 # Frontend-Mentor - challenges solutions
 
-| table of contents                                                   |
+| table of content                                                   |
 | --------------------------------------------------------------------|
 | [3 Column Preview Card Component](#3-column-preview-card-component) |
 
