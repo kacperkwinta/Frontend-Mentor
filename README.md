@@ -1,6 +1,6 @@
 # Frontend-Mentor - challenges solutions
 
-| Table of content                                                   |
+| Table of content                                                    |
 | --------------------------------------------------------------------|
 | [3 Column Preview Card Component](#3-column-preview-card-component) |
 
@@ -20,12 +20,12 @@ Thanks for checking my solution 😎
 - Media-queries
 - BEM
 
-### What i learned 📘
+### What i learned
 
-- For the first time I used rem instead of px
+- For the first time I used rem instead of px 🎉
 
 ### Links 🌐
 
 - Live Site URL 🔴: [click!](https://kacperkwinta.github.io/3-column-preview-card-component/)
-- Repository URL: [click!](https://github.com/kacperkwinta/3-column-preview-card-component)
-
+- Repo with other challenges 📁: [click!](https://github.com/kacperkwinta/Frontend-Mentor)
+- My Frontend Mentor profile 💻: [click!](https://www.frontendmentor.io/profile/kacperkwinta)
