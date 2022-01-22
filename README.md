@@ -3,7 +3,8 @@
 | Table of content                                                    |
 | --------------------------------------------------------------------|
 | [3 Column Preview Card Component](#3-column-preview-card-component) |
-| [QR code component](#3-column-preview-card-component) |
+| [QR code component](#QR-code-component) |
+
 
 ## 3 Column Preview Card Component
 
@@ -34,7 +35,7 @@ Thanks for checking my solution 😎
 <br>
 <br>
 
-## QR code component
+## QR Code Component
 
 ![screenshot](./screens/QR-code-component.jpg)
 
