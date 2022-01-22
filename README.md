@@ -28,7 +28,7 @@ Thanks for checking my solution 😎
 ### Links 🌐
 
 - Live Site URL 🔴: [click!](https://kacperkwinta.github.io/3-column-preview-card-component/)
-- Repo with other challenges 📁: [click!](https://github.com/kacperkwinta/Frontend-Mentor)
+- Project repo 📂: [click!](https://github.com/kacperkwinta/3-column-preview-card-component)
 - My Frontend Mentor profile 💻: [click!](https://www.frontendmentor.io/profile/kacperkwinta)
 
 <br>
@@ -55,7 +55,7 @@ Thanks for checking my solution 😎
 ### Links 🌐
 
 - Live Site URL 🔴: [click!](https://kacperkwinta.github.io/QR-code-component/)
-- Repo with other challenges 📁: [click!](https://github.com/kacperkwinta/Frontend-Mentor)
+- Project repo 📂: [click!](https://github.com/kacperkwinta/QR-code-component)
 - My Frontend Mentor profile 💻: [click!](https://www.frontendmentor.io/profile/kacperkwinta)
 
 ### Acknowledgments
