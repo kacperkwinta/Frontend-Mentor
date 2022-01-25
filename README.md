@@ -84,7 +84,7 @@ Thanks for checking my solution 😎
 ### Links 🌐
 
 - Live Site URL 🔴: [click!](https://kacperkwinta.github.io/NFT-preview-card-component/)
-- Repo with other challenges 📁: [click!](https://github.com/kacperkwinta/Frontend-Mentor)
+- Project repo 📂: [click!](https://github.com/kacperkwinta/NFT-preview-card-component)
 - My Frontend Mentor profile 💻: [click!](https://www.frontendmentor.io/profile/kacperkwinta)
 
 ### Acknowledgments
