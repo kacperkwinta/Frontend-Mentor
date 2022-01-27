@@ -5,6 +5,8 @@
 | [3 Column Preview Card Component](#3-column-preview-card-component) |
 | [QR Code Component](#QR-code-component) |
 | [NFT Preview Card Component](#NFT-preview-card-component)           |
+| [Order Summary Component](#Order-summary-component)           |
+
 
 ## 3 Column Preview Card Component
 
