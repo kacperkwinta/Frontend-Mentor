@@ -3,8 +3,8 @@
 | Table of content                                                    |
 | --------------------------------------------------------------------|
 | [3 Column Preview Card Component](#3-column-preview-card-component) |
-| [QR code component](#QR-code-component) |
-
+| [QR Code Component](#QR-code-component) |
+| [NFT Preview Card Component](#NFT-preview-card-component)           |
 
 ## 3 Column Preview Card Component
 
@@ -62,4 +62,33 @@ Thanks for checking my solution 😎
 ### Acknowledgments
 
 [This](https://www.frontendmentor.io/solutions/qr-code-p8vYQRiXX) solution was helpful for me to to this challenge 👍
+
+<br>
+<br>
+
+## NFT Preview Card Component
+
+![screenshot](./screens/NFT-preview-card-component.jpg)
+
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
+
+Thanks for checking my solution 😎
+
+### Built with 💻
+
+- Semantic HTML5 markup
+- BEM
+- Sass
+- Flexbox
+
+### Links 🌐
+
+- Live Site URL 🔴: [click!](https://kacperkwinta.github.io/NFT-preview-card-component/)
+- Project repo 📂: [click!](https://github.com/kacperkwinta/NFT-preview-card-component)
+- My Frontend Mentor profile 💻: [click!](https://www.frontendmentor.io/profile/kacperkwinta)
+
+### Acknowledgments
+
+[This](https://www.frontendmentor.io/solutions/nft-preview-card-component-kOXxYphSg) solution was very helpful (:
+
 
