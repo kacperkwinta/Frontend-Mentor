@@ -91,4 +91,29 @@ Thanks for checking my solution 😎
 
 [This](https://www.frontendmentor.io/solutions/nft-preview-card-component-kOXxYphSg) solution was very helpful (:
 
+<br>
+<br>
+
+## Order summary component
+
+![Design preview for the Order summary card coding challenge](./screens/Order-summary-component.jpg)
+
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).
+
+Thanks for checking my solution 😎
+
+### Built with 💻
+
+- Semantic HTML5 markup
+- BEM
+- Sass
+- Flexbox
+
+### Links 🌐
+
+- Live Site URL 🔴: [click!](https://kacperkwinta.github.io/Order-summary-component/)
+- Project repo 📂: [click!](https://github.com/kacperkwinta/Order-summary-component)
+- My Frontend Mentor profile 💻: [click!](https://www.frontendmentor.io/profile/kacperkwinta)
+
+
 
