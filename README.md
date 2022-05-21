@@ -17,8 +17,6 @@
 
 ![screenshot](./screens/3-column-preview-card-component.jpg)
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
-
 ### Built with 💻
 
 - Semantic HTML5 markup
@@ -44,8 +42,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ## QR Code Component
 
 ![screenshot](./screens/QR-code-component.jpg)
-
-This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 ### Built with 💻
 
@@ -75,8 +71,6 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ![screenshot](./screens/NFT-preview-card-component.jpg)
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
-
 ### Built with 💻
 
 - Semantic HTML5 markup
@@ -101,8 +95,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ![Design preview for the Order summary card coding challenge](./screens/Order-summary-component.jpg)
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).
-
 ### Built with 💻
 
 - Semantic HTML5 markup
@@ -122,8 +114,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ## Profile card component
 
 ![Design preview for the Profile card component coding challenge](./screens/Profile-card-component.jpg)
-
-This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
 
 ### Built with 💻
 
@@ -148,8 +138,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ## Single price grid component
 
 ![Design preview for the Single price grid component challenge](./screens/Single-price-grid-component.jpg)
-
-This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc).
 
 ### Built with 💻
 
