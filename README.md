@@ -178,8 +178,9 @@ Thanks for checking my solution 😎
 ### Built with 💻
 
 - Semantic HTML5 markup
-- B
-- S
+- BEM
+- Sass
+- Flexbox
 
 ### Links 🌐
 
