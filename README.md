@@ -54,7 +54,7 @@ Thanks for checking my solution 😎
 
 ### What i learned
 
-- For the first time i use ```@import``` in css file 😂
+- For the first time i use ```@import``` in css file!
 
 ### Links 🌐
 
