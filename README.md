@@ -9,6 +9,10 @@
 |[Profile Card Component](#Profile-card-component)                   |
 |[Single price grid component](#Single-price-grid-component)         |
 
+<br>
+<br>
+<br>
+
 <!-- ########################### -->
 
 ## 3 Column Preview Card Component
@@ -39,7 +43,7 @@ Thanks for checking my solution 😎
 
 <br>
 <br>
-<!-- ########################### -->
+<br>
 
 <!-- ########################### -->
 
@@ -73,7 +77,7 @@ Thanks for checking my solution 😎
 
 <br>
 <br>
-<!-- ########################### -->
+<br>
 
 <!-- ########################### -->
 
@@ -103,7 +107,7 @@ Thanks for checking my solution 😎
 
 <br>
 <br>
-<!-- ########################### -->
+<br>
 
 <!-- ########################### -->
 
@@ -129,7 +133,7 @@ Thanks for checking my solution 😎
 
 <br>
 <br>
-<!-- ########################### -->
+<br>
 
 <!-- ########################### -->
 
@@ -159,7 +163,7 @@ Thanks for checking my solution 😎
 
 <br>
 <br>
-<!-- ########################### -->
+<br>
 
 <!-- ########################### -->
 
@@ -185,4 +189,5 @@ Thanks for checking my solution 😎
 
 <br>
 <br>
+
 <!-- ########################### -->
