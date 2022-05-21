@@ -13,8 +13,6 @@
 <br>
 <br>
 
-<hr>
-
 ## 3 Column Preview Card Component
 
 ![screenshot](./screens/3-column-preview-card-component.jpg)
@@ -44,8 +42,6 @@ Thanks for checking my solution 😎
 <br>
 <br>
 <br>
-
-<hr>
 
 ## QR Code Component
 
@@ -79,8 +75,6 @@ Thanks for checking my solution 😎
 <br>
 <br>
 
-<hr>
-
 ## NFT Preview Card Component
 
 ![screenshot](./screens/NFT-preview-card-component.jpg)
@@ -109,8 +103,6 @@ Thanks for checking my solution 😎
 <br>
 <br>
 
-<hr>
-
 ## Order summary component
 
 ![Design preview for the Order summary card coding challenge](./screens/Order-summary-component.jpg)
@@ -134,8 +126,6 @@ Thanks for checking my solution 😎
 <br>
 <br>
 <br>
-
-<hr>
 
 ## Profile card component
 
@@ -165,8 +155,6 @@ Thanks for checking my solution 😎
 <br>
 <br>
 
-<hr>
-
 ## Single price grid component
 
 ![Design preview for the Single price grid component challenge](./screens/Single-price-grid-component.jpg)
@@ -190,5 +178,3 @@ Thanks for checking my solution 😎
 
 <br>
 <br>
-
-<hr>
