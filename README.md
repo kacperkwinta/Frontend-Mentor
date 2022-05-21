@@ -149,8 +149,9 @@
 ### Links 🌐
 
 - Live Site URL 🔴: [click!]()
-- Project repo 📂: [click!]()
+- Project repo 📂: [click!](https://github.com/kacperkwinta/Single-price-grid-component)
 - My Frontend Mentor profile 💻: [click!](https://www.frontendmentor.io/profile/kacperkwinta)
 
+<br>
 <br>
 <br>
