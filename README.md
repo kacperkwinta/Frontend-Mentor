@@ -19,8 +19,6 @@
 
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
 
-Thanks for checking my solution 😎
-
 ### Built with 💻
 
 - Semantic HTML5 markup
@@ -48,8 +46,6 @@ Thanks for checking my solution 😎
 ![screenshot](./screens/QR-code-component.jpg)
 
 This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
-
-Thanks for checking my solution 😎
 
 ### Built with 💻
 
@@ -81,8 +77,6 @@ Thanks for checking my solution 😎
 
 This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 
-Thanks for checking my solution 😎
-
 ### Built with 💻
 
 - Semantic HTML5 markup
@@ -109,8 +103,6 @@ Thanks for checking my solution 😎
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).
 
-Thanks for checking my solution 😎
-
 ### Built with 💻
 
 - Semantic HTML5 markup
@@ -132,8 +124,6 @@ Thanks for checking my solution 😎
 ![Design preview for the Profile card component coding challenge](./screens/Profile-card-component.jpg)
 
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
-
-Thanks for checking my solution 😎
 
 ### Built with 💻
 
@@ -160,8 +150,6 @@ Thanks for checking my solution 😎
 ![Design preview for the Single price grid component challenge](./screens/Single-price-grid-component.jpg)
 
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc).
-
-Thanks for checking my solution 😎
 
 ### Built with 💻
 
