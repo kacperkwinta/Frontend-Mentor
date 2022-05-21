@@ -1,13 +1,14 @@
 # Frontend-Mentor - challenges solutions
 
 | Table of content                                                    |
-| --------------------------------------------------------------------|
+| ------------------------------------------------------------------- |
 | [3 Column Preview Card Component](#3-column-preview-card-component) |
-| [QR Code Component](#QR-code-component) |
+| [QR Code Component](#QR-code-component)                             |
 | [NFT Preview Card Component](#NFT-preview-card-component)           |
-| [Order Summary Component](#Order-summary-component)           |
-| [Profile Card Component](#Profile-card-component)           |
+| [Order Summary Component](#Order-summary-component)                 |
+| [Profile Card Component](#Profile-card-component)                   |
 
+<!-- ########################### -->
 
 ## 3 Column Preview Card Component
 
@@ -37,6 +38,9 @@ Thanks for checking my solution 😎
 
 <br>
 <br>
+<!-- ########################### -->
+
+<!-- ########################### -->
 
 ## QR Code Component
 
@@ -54,7 +58,7 @@ Thanks for checking my solution 😎
 
 ### What i learned
 
-- For the first time i use ```@import``` in css file 😂
+- For the first time i use `@import` in css file 😂
 
 ### Links 🌐
 
@@ -68,6 +72,9 @@ Thanks for checking my solution 😎
 
 <br>
 <br>
+<!-- ########################### -->
+
+<!-- ########################### -->
 
 ## NFT Preview Card Component
 
@@ -95,6 +102,9 @@ Thanks for checking my solution 😎
 
 <br>
 <br>
+<!-- ########################### -->
+
+<!-- ########################### -->
 
 ## Order summary component
 
@@ -118,6 +128,9 @@ Thanks for checking my solution 😎
 
 <br>
 <br>
+<!-- ########################### -->
+
+<!-- ########################### -->
 
 ## Profile card component
 
@@ -143,3 +156,32 @@ Thanks for checking my solution 😎
 
 [This](https://www.frontendmentor.io/solutions/challenge-completed-with-html-css-flexbox-and-responsive-z3vKKRSaK) solution was helpful for me to to this challenge 👍
 
+<br>
+<br>
+<!-- ########################### -->
+
+<!-- ########################### -->
+
+## Single price grid component
+
+![Design preview for the Single price grid component challenge](./screens/Single-price-grid-component.jpg)
+
+This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc).
+
+Thanks for checking my solution 😎
+
+### Built with 💻
+
+- Semantic HTML5 markup
+- B
+- S
+
+### Links 🌐
+
+- Live Site URL 🔴: [click!]()
+- Project repo 📂: [click!]()
+- My Frontend Mentor profile 💻: [click!](https://www.frontendmentor.io/profile/kacperkwinta)
+
+<br>
+<br>
+<!-- ########################### -->
