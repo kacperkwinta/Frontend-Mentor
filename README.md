@@ -1,19 +1,19 @@
 # Frontend-Mentor - challenges solutions
 
-|Table of content                                                    |
-|--------------------------------------------------------------------|
-|[3 Column Preview Card Component](#3-column-preview-card-component) |
-|[QR Code Component](#QR-code-component)                             |
-|[NFT Preview Card Component](#NFT-preview-card-component)           |
-|[Order Summary Component](#Order-summary-component)                 |
-|[Profile Card Component](#Profile-card-component)                   |
-|[Single price grid component](#Single-price-grid-component)         |
+| Table of content                                                    |
+| ------------------------------------------------------------------- |
+| [3 Column Preview Card Component](#3-column-preview-card-component) |
+| [QR Code Component](#QR-code-component)                             |
+| [NFT Preview Card Component](#NFT-preview-card-component)           |
+| [Order Summary Component](#Order-summary-component)                 |
+| [Profile Card Component](#Profile-card-component)                   |
+| [Single price grid component](#Single-price-grid-component)         |
 
 <br>
 <br>
 <br>
 
-<!-- ########################### -->
+<hr>
 
 ## 3 Column Preview Card Component
 
@@ -45,7 +45,7 @@ Thanks for checking my solution 😎
 <br>
 <br>
 
-<!-- ########################### -->
+<hr>
 
 ## QR Code Component
 
@@ -63,7 +63,7 @@ Thanks for checking my solution 😎
 
 ### What i learned
 
-- For the first time i use ```@import``` in css file!
+- For the first time i use `@import` in css file!
 
 ### Links 🌐
 
@@ -79,7 +79,7 @@ Thanks for checking my solution 😎
 <br>
 <br>
 
-<!-- ########################### -->
+<hr>
 
 ## NFT Preview Card Component
 
@@ -109,7 +109,7 @@ Thanks for checking my solution 😎
 <br>
 <br>
 
-<!-- ########################### -->
+<hr>
 
 ## Order summary component
 
@@ -135,7 +135,7 @@ Thanks for checking my solution 😎
 <br>
 <br>
 
-<!-- ########################### -->
+<hr>
 
 ## Profile card component
 
@@ -165,7 +165,7 @@ Thanks for checking my solution 😎
 <br>
 <br>
 
-<!-- ########################### -->
+<hr>
 
 ## Single price grid component
 
@@ -191,4 +191,4 @@ Thanks for checking my solution 😎
 <br>
 <br>
 
-<!-- ########################### -->
+<hr>
