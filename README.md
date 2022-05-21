@@ -1,12 +1,12 @@
 # Frontend-Mentor - challenges solutions
 
-| Table of content                                                    |
-| ------------------------------------------------------------------- |
-| [3 Column Preview Card Component](#3-column-preview-card-component) |
-| [QR Code Component](#QR-code-component)                             |
-| [NFT Preview Card Component](#NFT-preview-card-component)           |
-| [Order Summary Component](#Order-summary-component)                 |
-| [Profile Card Component](#Profile-card-component)                   |
+|Table of content                                                    |
+|--------------------------------------------------------------------|
+|[3 Column Preview Card Component](#3-column-preview-card-component) |
+|[QR Code Component](#QR-code-component)                             |
+|[NFT Preview Card Component](#NFT-preview-card-component)           |
+|[Order Summary Component](#Order-summary-component)                 |
+|[Profile Card Component](#Profile-card-component)                   |
 
 <!-- ########################### -->
 
@@ -58,7 +58,7 @@ Thanks for checking my solution 😎
 
 ### What i learned
 
-- For the first time i use `@import` in css file 😂
+- For the first time i use ```@import``` in css file!
 
 ### Links 🌐
 
