@@ -7,7 +7,6 @@
 | [NFT Preview Card Component](#NFT-preview-card-component)           |
 | [Order Summary Component](#Order-summary-component)                 |
 | [Profile Card Component](#Profile-card-component)                   |
-| [Single price grid component](#Single-price-grid-component)         |
 
 <br>
 <br>
@@ -135,23 +134,4 @@
 <br>
 <br>
 
-## Single price grid component
 
-![Design preview for the Single price grid component challenge](./screens/Single-price-grid-component.jpg)
-
-### Built with 💻
-
-- Semantic HTML5 markup
-- BEM
-- Sass
-- Flexbox
-
-### Links 🌐
-
-- Live Site URL 🔴: [click!]()
-- Project repo 📂: [click!](https://github.com/kacperkwinta/Single-price-grid-component)
-- My Frontend Mentor profile 💻: [click!](https://www.frontendmentor.io/profile/kacperkwinta)
-
-<br>
-<br>
-<br>
