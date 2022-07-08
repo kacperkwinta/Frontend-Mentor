@@ -7,7 +7,7 @@
 | [NFT Preview Card Component](#NFT-preview-card-component)           |
 | [Order Summary Component](#Order-summary-component)                 |
 | [Profile Card Component](#Profile-card-component)                   |
-| [Product Preview Card Component](Product-preview-card-component)    |
+| [Product Preview Card Component](#Product-preview-card-component)    |
 
 <br>
 <br>
